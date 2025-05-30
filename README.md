@@ -103,4 +103,10 @@ You can view the project presentation [Presentation](https://www.canva.com/desig
 
 ---
 
+### 🤝 Collaborators
+
+- [Rashi Agrawal](https://github.com/RashiAg123)
+
+---
+
 *Thank you for checking out SignLink! Feel free to contribute or raise issues.*
