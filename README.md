@@ -88,7 +88,7 @@ With a clean and responsive **React + Tailwind CSS frontend** and a powerful **P
 
 ### 📂 Presentation
 
-You can view the project presentation [Presentation]([https://www.canva.com/design/DAGo0_qkrE0/8AD8g7SH2wMKK90JTO4D_A/view?utm_content=DAGo0_qkrE0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4215a13e56](https://www.canva.com/design/DAGo0_qkrE0/8AD8g7SH2wMKK90JTO4D_A/view?utm_content=DAGo0_qkrE0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4215a13e56)).
+You can view the project presentation [Presentation](https://www.canva.com/design/DAGo0_qkrE0/8AD8g7SH2wMKK90JTO4D_A/view?utm_content=DAGo0_qkrE0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4215a13e56).
 
 ---
 
