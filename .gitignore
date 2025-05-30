@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+venv/
+
+# Node modules (for frontend)
+sign-language-translator/node_modules/
+
+# Any other large or unnecessary files/folders
+*.wav
+*.npy
